@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<svg width="158.25" height="28" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-label="MS POWERPOINT">
+ <title>MS POWERPOINT</title>
+ <defs>
+  <symbol height="48px" id="svg_8" viewBox="0 0 48 48" width="48px" xmlns="http://www.w3.org/2000/svg">
+   <path d="m8,24c0,9.94 8.06,18 18,18s18,-8.06 18,-18l-18,0l-18,0z" fill="#dc4c2c" id="svg_4"/>
+   <path d="m26,6l0,18l18,0c0,-9.94 -8.06,-18 -18,-18z" fill="#f7a278" id="svg_6"/>
+   <path d="m26,6c-9.94,0 -18,8.06 -18,18l18,0l0,-18z" fill="#c06346" id="svg_7"/>
+   <path d="m22.32,34l-16.64,0c-0.93,0 -1.68,-0.75 -1.68,-1.68l0,-16.64c0,-0.93 0.75,-1.68 1.68,-1.68l16.64,0c0.93,0 1.68,0.75 1.68,1.68l0,16.64c0,0.93 -0.75,1.68 -1.68,1.68z" fill="#9b341f" id="svg_10"/>
+   <path d="m14.67,19.01l-4.67,0l0,10l2.02,0l0,-3.52l2.28,0c1.88,0 3.4,-1.52 3.4,-3.4l0,-0.05c0,-1.67 -1.36,-3.03 -3.03,-3.03zm0.9,3.35c0,0.86 -0.7,1.55 -1.56,1.55l-1.99,0l0,-3.32l1.99,0c0.86,0 1.56,0.7 1.56,1.56l0,0.21z" fill="#fff" id="svg_11"/>
+  </symbol>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <rect fill="#2b2d31" height="28" id="svg_2" width="158.25"/>
+  </g>
+  <g fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="100" id="svg_3" text-anchor="middle">
+   <text fill="#fff" font-weight="bold" id="svg_5" textLength="1142.5" transform="scale(.1)" x="891.25" y="175">MS POWERPOINT</text>
+   <use id="svg_9" transform="matrix(0.386822 0 0 0.386822 40.505 56.8151)" x="-85.63" xlink:href="#svg_8" y="-134.99"/>
+  </g>
+ </g>
+</svg>

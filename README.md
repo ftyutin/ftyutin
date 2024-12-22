@@ -1,17 +1,21 @@
+<div align="center">
+  <img height="360" width="960" src="./data/image/banner.png"  />
+</div>
+
 <h1 align="center">Привет 👋 Меня зовут Федор!</h1>
 
 <div align="center">
 <a href="mailto:ftyutin@gmail.com" target="_blank">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/gmail-2B2D31?style=for-the-badge&logo=Gmail" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/gmail-F6F8FA?style=for-the-badge&logo=Gmail" />
+  <source media="(prefers-color-scheme: dark)" srcset="./data/image/Gmail_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./data/image/Gmail_light.svg" />
   <img alt="Gmail_logo" src="Gmail_logo.svg"">
 </picture>
 </a>
 <a href="https://t.me/TyutinFedor" target="_blank">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Telegram-2B2D31?style=for-the-badge&logo=Telegram" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Telegram-F6F8FA?style=for-the-badge&logo=Telegram" />
+  <source media="(prefers-color-scheme: dark)" srcset="./data/image/Telegram_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./data/image/Telegram_light.svg" />
   <img alt="Telegram_logo" src="Telegram_logo.svg">
 </picture>
 </a>
@@ -29,13 +33,13 @@
 
 <h3 align="left">🛠  Технологический стек</h3>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-2B2D31?style=for-the-badge&logo=MySQL" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MySQL-F6F8FA?style=for-the-badge&logo=MySQL" />
+  <source media="(prefers-color-scheme: dark)" srcset="./data/image/MySQL_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./data/image/MySQL_light.svg" />
   <img alt="MySQL_logo" src="MySQL_logo.svg"">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-2B2D31?style=for-the-badge&logo=PostgreSQL" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PostgreSQL-F6F8FA?style=for-the-badge&logo=PostgreSQL" />
+  <source media="(prefers-color-scheme: dark)" srcset="./data/image/PostgreSQL_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./data/image/PostgreSQL_light.svg" />
   <img alt="PostgreSQL_logo" src="PostgreSQL_logo.svg"">
 </picture>
 <picture>
@@ -44,8 +48,8 @@
   <img alt="ClickHouse_logo" src="ClickHouse_logo.svg"">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Superset-2B2D31?style=for-the-badge&logo=Apache" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Superset-F6F8FA?style=for-the-badge&logo=Apache" />
+  <source media="(prefers-color-scheme: dark)" srcset="./data/image/ApacheSuperset_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./data/image/ApacheSuperset_light.svg" />
   <img alt="ApacheSuperset_logo" src="ApacheSuperset_logo.svg"">
 </picture>
 <picture>
@@ -64,33 +68,33 @@
   <img alt="Jupyter_logo" src="Jupyter_logo.svg"">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-2B2D31?style=for-the-badge&logo=Python" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-F6F8FA?style=for-the-badge&logo=Python" />
+  <source media="(prefers-color-scheme: dark)" srcset="./data/image/Python_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./data/image/Python_light.svg" />
   <img alt="Python_logo" src="Python_logo.svg"">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pandas-2B2D31?style=for-the-badge&logo=Pandas" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Pandas-F6F8FA?style=for-the-badge&logo=Pandas" />
+  <source media="(prefers-color-scheme: dark)" srcset="./data/image/Pandas_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./data/image/Pandas_light.svg" />
   <img alt="Pandas_logo" src="Pandas_logo.svg"">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NumPy-2B2D31?style=for-the-badge&logo=NumPy" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/NumPy-F6F8FA?style=for-the-badge&logo=NumPy" />
+  <source media="(prefers-color-scheme: dark)" srcset="./data/image/NumPy_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./data/image/NumPy_light.svg" />
   <img alt="NumPy_logo" src="NumPy_logo.svg"">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Plotly-2B2D31?style=for-the-badge&logo=Plotly" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Plotly-F6F8FA?style=for-the-badge&logo=Plotly" />
+  <source media="(prefers-color-scheme: dark)" srcset="./data/image/Plotly_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./data/image/Plotly_light.svg" />
   <img alt="Plotly_logo" src="Plotly_logo.svg"">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PowerShell-2B2D31?style=for-the-badge&logo=PowerShell" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PowerShell-F6F8FA?style=for-the-badge&logo=PowerShell" />
+  <source media="(prefers-color-scheme: dark)" srcset="./data/image/PowerShell_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./data/image/PowerShell_light.svg" />
   <img alt="PowerShell_logo" src="PowerShell_logo.svg"">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AirFlow-2B2D31?style=for-the-badge&logo=ApacheAirflow" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/AirFlow-F6F8FA?style=for-the-badge&logo=ApacheAirflow" />
+  <source media="(prefers-color-scheme: dark)" srcset="./data/image/ApacheAirflow_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./data/image/ApacheAirflow_light.svg" />
   <img alt="ApacheAirflow_logo" src="ApacheAirflow_logo.svg"">
 </picture>
 <picture>
@@ -104,13 +108,13 @@
   <img alt="Docker_logo" src="Docker_logo.svg"">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MS_Excel-2B2D31?style=for-the-badge&logo=MicrosoftExcel" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MS_Excel-F6F8FA?style=for-the-badge&logo=MicrosoftExcel" />
+  <source media="(prefers-color-scheme: dark)" srcset="./data/image/MS_Excel_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./data/image/MS_Excel_light.svg" />
   <img alt="MS_Excel_logo" src="MS_Excel_logo.svg"">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MS_PowerPoint-2B2D31?style=for-the-badge&logo=MicrosoftPowerPoint" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MS_PowerPoint-F6F8FA?style=for-the-badge&logo=MicrosoftPowerPoint" />
+  <source media="(prefers-color-scheme: dark)" srcset="./data/image/MS_PowerPoint_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./data/image/MS_PowerPoint_light.svg" />
   <img alt="MS_PowerPoint_logo" src="MS_PowerPoint_logo.svg"">
 </picture>
 
@@ -132,6 +136,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ftyutin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<svg width="90.25" height="28" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-label="NUMPY">
+ <title>NUMPY</title>
+ <defs>
+  <symbol height="48px" id="svg_6" viewBox="0 0 48 48" width="48px" xmlns="http://www.w3.org/2000/svg">
+   <polygon fill="#00acc1" id="svg_4" points="21.196,12.276 14.392,8.842 6.922,12.569 13.912,16.078"/>
+   <polygon fill="#00acc1" id="svg_8" points="24.317,13.85 31.451,17.453 24.049,21.169 17.049,17.654"/>
+   <polygon fill="#00acc1" id="svg_9" points="33.846,8.893 41.176,12.569 34.619,15.86 27.47,12.254"/>
+   <polygon fill="#00acc1" id="svg_10" points="30.69,7.31 24.091,4 17.564,7.258 24.364,10.687"/>
+   <polygon fill="#00acc1" id="svg_11" points="25.532,35.725 25.532,44.73 33.525,40.74 33.518,31.732"/>
+   <polygon fill="#00acc1" id="svg_12" points="33.514,28.587 33.505,19.674 25.532,23.637 25.532,32.554"/>
+   <polygon fill="#00acc1" id="svg_13" points="43.111,26.918 43.111,35.957 36.292,39.359 36.287,30.361"/>
+   <polygon fill="#00acc1" id="svg_14" points="43.111,23.756 43.111,14.898 36.279,18.294 36.285,27.225"/>
+   <path d="m22.71,23.64l-5.38,-2.71l0,11.7c0,0 -6.59,-14.01 -7.2,-15.27c-0.08,-0.16 -0.4,-0.34 -0.48,-0.39c-1.19,-0.62 -4.65,-2.37 -4.65,-2.37l0,20.68l4.79,2.56l0,-10.81c0,0 6.51,12.52 6.58,12.66s0.72,1.45 1.42,1.92c0.93,0.62 4.92,3.01 4.92,3.01l0,-20.98z" fill="#448aff" id="svg_15"/>
+  </symbol>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <rect fill="#F6F8FA" height="28" id="svg_2" width="90.25"/>
+  </g>
+  <g fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="100" id="svg_3" text-anchor="middle">
+   <text fill="#333" font-weight="bold" id="svg_5" textLength="462.5" transform="scale(.1)" x="551.25" y="175">NUMPY</text>
+   <use id="svg_7" transform="matrix(0.372407 0 0 0.372407 3.43334 22.4308)" x="9.51" xlink:href="#svg_6" y="-45.25"/>
+  </g>
+ </g>
+</svg>

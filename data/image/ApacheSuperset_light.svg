@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<svg width="111" height="28" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-label="SUPERSET">
+ <title>SUPERSET</title>
+ <defs>
+  <symbol height="24" id="svg_7" viewBox="-0.5 -0.5 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+   <desc>Apache Superset Icon Streamline Icon: https://streamlinehq.com</desc>
+   <path d="m16.97,5.91c-1.93,0 -3.71,1.09 -5.43,2.98c-1.68,-1.92 -3.49,-2.98 -5.51,-2.98c-3.35,0 -5.79,2.39 -5.79,5.6c0,3.22 2.44,5.57 5.79,5.57c2.05,0 3.65,-0.96 5.43,-2.88c1.71,1.93 3.46,2.89 5.51,2.89c3.35,-0.01 5.79,-2.35 5.79,-5.58s-2.44,-5.6 -5.79,-5.6zm-10.92,7.8c-1.42,0 -2.26,-0.93 -2.26,-2.17c0,-1.23 0.84,-2.19 2.26,-2.19c1.19,0 2.17,0.96 3.23,2.25c-1,1.21 -2.05,2.11 -3.23,2.11zm10.82,0c-1.17,0 -2.17,-0.93 -3.22,-2.17c1.08,-1.29 2.02,-2.19 3.22,-2.19c1.42,0 2.26,0.97 2.26,2.19s-0.84,2.17 -2.26,2.17z" fill="#484848" id="svg_4"/>
+   <path d="m13.97,16.29l2.25,-2.69c-0.89,-0.27 -1.72,-1.07 -2.57,-2.07l-2.19,2.67c0.71,0.83 1.56,1.54 2.51,2.09z" fill="#20A7C9" id="svg_6"/>
+   <path d="m11.54,8.89c-0.71,-0.84 -1.55,-1.56 -2.5,-2.14l-2.25,2.72c0.85,0.3 1.61,1.07 2.42,2.05l0.09,0.06l2.24,-2.69z" fill="#20A7C9" id="svg_9"/>
+  </symbol>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <rect fill="#F6F8FA" height="28" id="svg_2" width="111" x="0" y="0"/>
+  </g>
+  <g fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="100" id="svg_3" text-anchor="middle">
+   <text fill="#333" font-weight="bold" id="svg_5" textLength="670" transform="matrix(0.1 0 0 0.1 0 0)" x="693.12" y="176.25">SUPERSET</text>
+   <use id="svg_8" transform="matrix(1.03214 0 0 1.03214 68.2578 43.9419)" x="-58.83" xlink:href="#svg_7" y="-41.39"/>
+  </g>
+ </g>
+</svg>

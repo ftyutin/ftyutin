@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<svg width="93.5" height="28" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-label="PLOTLY">
+ <title>PLOTLY</title>
+ <defs>
+  <symbol height="64" id="svg_23" version="1.1" viewBox="0 0 25.6 25.6" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+   <metadata id="svg_22">image/svg+xml</metadata>
+   <defs id="svg_20">
+    <style id="svg_21">.cls-1 {
+        fill: #119dff;
+      }
+
+      .cls-2 {
+        fill: #25fefd;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }</style>
+   </defs>
+   <style id="svg_19">
+    <![CDATA[.B{stroke-linecap:round}.C{stroke-linejoin:round}.D{stroke-linejoin:miter}.E{stroke-width:.716}]]>
+   </style>
+   <g id="svg_7" transform="scale(0.19393939)">
+    <rect class="cls-1" fill="#119dff" height="132" id="svg_18" rx="6" ry="6" width="132" x="0" y="0"/>
+    <circle class="cls-2" cx="78" cy="54" fill="#25fefd" id="svg_17" r="6"/>
+    <circle class="cls-2" cx="102" cy="30" fill="#25fefd" id="svg_16" r="6"/>
+    <circle class="cls-2" cx="78" cy="30" fill="#25fefd" id="svg_15" r="6"/>
+    <circle class="cls-2" cx="54" cy="30" fill="#25fefd" id="svg_14" r="6"/>
+    <circle class="cls-2" cx="30" cy="30" fill="#25fefd" id="svg_13" r="6"/>
+    <circle class="cls-2" cx="30" cy="54" fill="#25fefd" id="svg_12" r="6"/>
+    <path class="cls-3" d="m30,72a6,6 0 0 0 -6,6l0,24a6,6 0 0 0 12,0l0,-24a6,6 0 0 0 -6,-6z" fill="#ffffff" id="svg_11"/>
+    <path class="cls-3" d="m78,72a6,6 0 0 0 -6,6l0,24a6,6 0 0 0 12,0l0,-24a6,6 0 0 0 -6,-6z" fill="#ffffff" id="svg_10"/>
+    <path class="cls-3" d="m54,48a6,6 0 0 0 -6,6l0,48a6,6 0 0 0 12,0l0,-48a6,6 0 0 0 -6,-6z" fill="#ffffff" id="svg_9"/>
+    <path class="cls-3" d="m102,48a6,6 0 0 0 -6,6l0,48a6,6 0 0 0 12,0l0,-48a6,6 0 0 0 -6,-6z" fill="#ffffff" id="svg_8"/>
+   </g>
+  </symbol>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <rect fill="#2b2d31" height="28" id="svg_2" width="93.5"/>
+  </g>
+  <g fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="100" id="svg_3" text-anchor="middle">
+   <text fill="#fff" font-weight="bold" id="svg_5" textLength="495" transform="scale(.1)" x="567.5" y="175">PLOTLY</text>
+   <use id="svg_24" transform="matrix(0.223871 0 0 0.223871 42.4253 41.7628)" x="-149.92" xlink:href="#svg_23" y="-155.6"/>
+  </g>
+ </g>
+</svg>
